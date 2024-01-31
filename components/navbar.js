@@ -5,11 +5,11 @@ import { Disclosure } from "@headlessui/react";
 
 const Navbar = () => {
   const navigation = [
-    "Product",
-    "Features",
-    "Pricing",
-    "Company",
+    "Perfil",
+    "Cursos",
+    "Publicaciones",
     "Blog",
+    "Contacto",
   ];
 
   return (
@@ -31,7 +31,7 @@ const Navbar = () => {
                         className="w-8"
                       />
                     </span>
-                    <span>Nextly</span>
+                    <span>UACH</span>
                   </span>
                 </Link>
 
